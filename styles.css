@@ -1,1 +1,14 @@
-
+body{
+    background-color: green;
+    color: white;
+    font-family: arial;
+}
+h1{
+    background-color:black;
+    border: #fff, solid, 3px;
+    border-radius: 15px;
+    padding: 20px;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
