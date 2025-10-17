@@ -13,6 +13,25 @@ h1{
     margin: 0 auto;
 }
 
+p{
+  background-color: grey;
+  padding: 20px;
+  margin: 50px;
+}
+
+a {
+  color: green; 
+  font-weight: bold; 
+}
+
+a:visited{
+  color: red;
+}
+
+a:hover{
+  color:yellow;
+}
+
 #warriors {
   float: right;       
   margin-right: 15px; 
