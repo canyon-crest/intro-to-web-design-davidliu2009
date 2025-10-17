@@ -12,3 +12,10 @@ h1{
     text-align: center;
     margin: 0 auto;
 }
+
+#warriors {
+  float: right;        /* makes the image sit on the left */
+  margin-right: 15px; /* adds space between the image and text */
+  width: 150px;       /* optional: set image size */
+  border-radius: 10px; /* optional: rounded corners */
+}
