@@ -127,7 +127,7 @@ a:hover{
 
 @media (max-width:1200px){
   #container{
-    background-color: rgb(48, 172, 48);
+    background-color: green;
     width: 800px;
   }
 }
@@ -142,7 +142,7 @@ a:hover{
     border:none;
   }
   body, h1, h2, h3, p, div{
-    background-color: rgb(70, 193, 70) !important;
+    background-color: green!important;
     border:none;
   }
   body{
