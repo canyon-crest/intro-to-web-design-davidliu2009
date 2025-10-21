@@ -52,7 +52,7 @@ h3 {
   font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
   border-radius: 10px;
   padding: 5px;
-  animation: fadeIn 1.5s ease-in;
+  animation: maindivanimation 4s ease-in forwards;
 }
 
 #sidebar-header {
@@ -62,9 +62,9 @@ h3 {
   text-align: right;
 }
 
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
+@keyframes maindivanimation {
+  from { opacity: 0% }
+  to { opacity: 100% }
 }
 
 #sidebar ul {
